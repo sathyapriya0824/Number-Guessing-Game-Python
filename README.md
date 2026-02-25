@@ -1,9 +1,9 @@
 Number Guessing Game:
-=========================================================================================================================================================================
+========================================================================================================================
 📝 Problem Statement:
 
 The objective of this project is to develop a simple interactive number guessing game in Python. The computer randomly selects a number between 1 and 50, and the user must guess the correct number. The program provides feedback such as whether the guess is too high, too low, or correct.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎯 Objectives:
 
 To develop a console-based interactive game
