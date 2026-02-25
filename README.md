@@ -31,5 +31,4 @@ Displays feedback:
 “Too Low” if the guess is smaller
 Success message if correct
 
-Continues execution until the correct number is guessed
-Displays the total number of attempts taken
+Continues execution until the correct number is guessedDisplays the total number of attempts taken
